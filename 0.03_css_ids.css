@@ -1,0 +1,23 @@
+body {
+
+}
+/*to target a "class" in a css file, use a period first*/
+
+.first-class {
+	color: green;
+}
+
+.second-class {
+	font-size: 24px
+}
+
+/*to target an "ID" tag, use hashtag*/
+
+#number-one {
+	color: red;
+}
+
+#number-two {
+	font-size: 24px;
+}
+
