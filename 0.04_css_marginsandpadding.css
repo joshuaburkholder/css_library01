@@ -1,23 +1,24 @@
-.margins-padding{
-  border:2px solid blue;
-  margin: 50px 50px 50px 50px;
-  padding: 20px 20px 20px 40px;
-}
-#margin-demo {
-	width: 400px;
-
-}
-
-#margin-experiment{
-  height: 40px;
+.margins-padding {
+  height: 80px;
   background: blue;
-	border: 5px solid pink;
+	border-radius: 5px solid pink;
 /*	margin-top: 50px;
 	margin-right: 250px;
 	margin-bottom: 200px;
 	margin-left: 200px;
 */
-	margin: 0px 0px 0px 0px;
+	margin: 50px 50px 50px 50px;
+
+#margin-experiment{
+  height: 80px;
+  background: blue;
+	border-radius: 5px solid pink;
+/*	margin-top: 50px;
+	margin-right: 250px;
+	margin-bottom: 200px;
+	margin-left: 200px;
+*/
+	margin: 50px 50px 50px 50px;
 
 }
 
@@ -25,6 +26,7 @@
   height: 40px;
   background: blue;
 	border: 5px solid pink;
+
 /*	margin-top: 50px;
 	margin-right: 250px;
 	margin-bottom: 200px;
@@ -37,7 +39,7 @@
 
 
 #padding-experiment{
-	border: 2px solid yellow;
+	border-radius: -10px solid yellow;
 	margin: 50px 250px 100px 100px;
 /*
 	padding-top: 20px;
